@@ -4,7 +4,6 @@
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whkim98&show_icons=true&theme=radical)
 <hr>
-<br>
 # Stacks
 <hr>
 ### FrontEnd
