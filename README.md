@@ -44,3 +44,18 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Badge">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
 </div>
+
+<hr>
+
+# Contact Me ✉️
+<div>
+  <a href="mailto:ehdrhkd3838@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="mailto:wooju1101@naver.com" target="_blank">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Badge">
+  </a>
+  <a href="https://comebackworld.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge">
+  </a>
+</div>
