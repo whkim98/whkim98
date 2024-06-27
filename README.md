@@ -6,7 +6,6 @@
 <hr>
 
 # Stacks
-<hr>
 
 ### FrontEnd
 <div>
