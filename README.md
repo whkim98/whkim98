@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf Badge">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+  <img src="https://img.shields.io/badge/jQuery-3.6.0-blue?logo=jquery" alt="jQuery Version 3.6.0">
 </div>
 
 ### BackEnd
