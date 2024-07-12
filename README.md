@@ -64,4 +64,7 @@
   <a href="https://comebackworld.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge">
   </a>
+  <a href="https://www.linkedin.com/in/%EC%9A%B0%ED%98%95-%EA%B9%80-9301a1319/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
 </div>
