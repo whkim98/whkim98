@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf Badge">
+  <img src="https://img.shields.io/badge/JSP-00796B?style=for-the-badge&logo=java&logoColor=white" alt="JSP Badge">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
   <img src="https://img.shields.io/badge/jQuery-3.6.0-blue?logo=jquery" alt="jQuery Version 3.6.0">
