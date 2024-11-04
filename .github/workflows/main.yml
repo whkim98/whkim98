@@ -1,10 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 매 3시간마다 0분에 실행
-    - cron: "0 */3 * * *"
+  schedule: # 매일 낮 12시에 실행
+    - cron: "0 12 * * *"
   workflow_dispatch:
-
 
 jobs:
   build:
@@ -21,6 +20,5 @@ jobs:
           git config user.name "whkim98"
           git config user.email "hyeong7272@daum.net"
           git add -A .
-          git commit -m "generated" --amend || echo "No changes to commit"
-          git push --force
-
+          git commit -m "generated" || echo "No changes to commit"
+          git push
