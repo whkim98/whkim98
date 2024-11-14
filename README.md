@@ -72,4 +72,4 @@
 
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeong7272)](https://solved.ac/hyeong7272/) <br><br>
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeong7272)](https://solved.ac/hyeong7272/) <br><br>-->
